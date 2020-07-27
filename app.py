@@ -7,7 +7,7 @@ from argparse import ArgumentParser
 
 
 def NewUsage(name=None):
-    return """mentorddos.py [-h]
+    return """app.py [-h]
         [--ip [*IP adresi] ]
         [--port [Port numarası] ]
 
